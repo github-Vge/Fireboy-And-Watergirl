@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WatergirlBody
+  m_Controller: {fileID: 9100000, guid: 79602c892596e6c42bb357ce0c7b95b1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: fb2611d54c4f786428684102674edc0b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cb1148584896331419886b13851aa4ee, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f03ccfd9e5c5cc84084aca61a03811b3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4b01f5cb5ddf21f43bc613a95a38b45e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a3036e70fc9fee844a0e49b0322e553e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7625958cc0b173448aa0a2f733e963f7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0a593ed35b724df4fa9f0d475e6e2dc6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1116ef7d782991444a35b32cff8ea963, type: 2}

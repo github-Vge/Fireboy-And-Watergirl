@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BluewaterCenter1
+  m_Controller: {fileID: 9100000, guid: 0c89d863989f1fb43b7061839d7fa258, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4ebb16b15b4adb44da0d2bcf2ab1ea89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f0978991b1e6ff6458c20e0f5aba7d73, type: 2}

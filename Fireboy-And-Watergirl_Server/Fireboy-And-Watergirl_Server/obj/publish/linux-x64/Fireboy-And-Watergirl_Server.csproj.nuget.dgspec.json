@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\VS2019Project\\C#\\ConsoleApp\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server.csproj": {}
+  },
+  "projects": {
+    "E:\\VS2019Project\\C#\\ConsoleApp\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\VS2019Project\\C#\\ConsoleApp\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server.csproj",
+        "projectName": "Fireboy-And-Watergirl_Server",
+        "projectPath": "E:\\VS2019Project\\C#\\ConsoleApp\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\VS2019Project\\C#\\ConsoleApp\\Fireboy-And-Watergirl_Server\\Fireboy-And-Watergirl_Server\\obj\\publish\\linux-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files\\VS2019\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Multiverse.CSharpSDK": {
+              "target": "Package",
+              "version": "[1.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
