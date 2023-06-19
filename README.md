@@ -9,6 +9,7 @@ https://github.com/lv0senku/Fireboy-and-Watergirl.git
 Fireboy-And-Watergirl_Server下的文件是.Net6框架下的控制台应用，需要使用Visual Studio2022打开，  
 **并需要安装两个NuGet包：** Multiverse.CSharpSDK、Newtonsoft.Json  
 Fireboy-And-Watergirl_Client下的文件是Unity客户端程序，我的Unity版本是Unity 2022.2.1f1  
+需要先开启服务端程序，再开启两个客户端程序，才能启动本项目。  
 
 
 
